@@ -10,7 +10,7 @@ st.set_page_config(page_title="Laptop Price Predictor", layout="wide")
 
 PROJECT_ROOT = Path.cwd()
 PREPROCESSOR_PATH = PROJECT_ROOT / "artifacts" / "transformed" / "preprocessor.joblib"
-MODEL_PATH = PROJECT_ROOT / "prediction" / "models" / "current_model.joblib"
+MODEL_PATH = PROJECT_ROOT / "prediction" / "models" / "models" / "current_model.joblib"
 FEATURE_LIST_PATH = PROJECT_ROOT / "artifacts" / "transformed" / "feature_list.json"
 TRAIN_CSV_PATH = PROJECT_ROOT / "artifacts" / "transformed" / "train.csv"
 
