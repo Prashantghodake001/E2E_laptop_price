@@ -15,7 +15,7 @@ env/
 logs/
 *.log
 # artifacts/
-prediction/models/
+# prediction/models/
 notebooks/.ipynb_checkpoints/
 
 # OS-specific
