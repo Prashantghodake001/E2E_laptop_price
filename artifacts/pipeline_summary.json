@@ -18,8 +18,8 @@
         "R2": 0.9650240530089602
     },
     "pushed": {
-        "versioned_path": "prediction\\models\\models\\best_model_20251230_142220.joblib",
-        "archived_previous_active": "prediction\\models\\archive\\current_model_20251230_142220.joblib",
+        "versioned_path": "prediction\\models\\models\\best_model_20251230_142851.joblib",
+        "archived_previous_active": "prediction\\models\\archive\\current_model_20251230_142851.joblib",
         "active_path": "prediction\\models\\models\\current_model.joblib"
     }
 }
